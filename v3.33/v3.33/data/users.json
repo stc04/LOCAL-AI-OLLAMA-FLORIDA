@@ -1,0 +1,56 @@
+[
+  {
+    "username": "admin",
+    "email": "admin@example.com",
+    "password": "$2a$10$PLj5xOdbYqMcUABAW3J0/Ohk5dz6uGbuFXxBUwTwtkDr/fpI0oZki",
+    "role": "admin",
+    "preferences": {
+      "theme": "light",
+      "defaultModel": "llama2"
+    },
+    "id": "1734735236534",
+    "createdAt": "2024-12-20T22:53:56.534Z",
+    "updatedAt": "2024-12-25T04:10:02.077Z",
+    "lastLogin": "2024-12-25T04:10:02.076Z"
+  },
+  {
+    "username": "testuser",
+    "email": "test@example.com",
+    "password": "$2a$10$sh68h0qa9Af.cEuiy1BpqumRLVUEXRm8Sv0k1QYszeKf/hT/rcBoK",
+    "role": "user",
+    "preferences": {
+      "theme": "light",
+      "defaultModel": "llama2"
+    },
+    "id": "1734852011861",
+    "createdAt": "2024-12-22T07:20:11.861Z",
+    "updatedAt": "2024-12-22T07:20:11.861Z"
+  },
+  {
+    "username": "stc04",
+    "email": "steve@ai-itinc.com",
+    "password": "$2a$10$FA58q85kMnBnu/aVDrtgB.aQjcXGlgSkf7.SGuJA3mtxCo53R9Ts6",
+    "role": "user",
+    "preferences": {
+      "theme": "light",
+      "defaultModel": "llama2"
+    },
+    "id": "1734852364563",
+    "createdAt": "2024-12-22T07:26:04.563Z",
+    "updatedAt": "2024-12-22T08:13:17.550Z",
+    "lastLogin": "2024-12-22T08:13:17.549Z"
+  },
+  {
+    "username": "steve",
+    "email": "steve.chason@gmail.com",
+    "password": "$2a$10$ep/.gA5FJvfyvyQxtpRZauV7zKhPymhKWeU8w4zeOW6rBptTAJ9QO",
+    "role": "user",
+    "preferences": {
+      "theme": "light",
+      "defaultModel": "llama2"
+    },
+    "id": "1735099687902",
+    "createdAt": "2024-12-25T04:08:07.902Z",
+    "updatedAt": "2024-12-25T04:08:07.902Z"
+  }
+]
